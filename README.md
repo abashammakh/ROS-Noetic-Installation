@@ -1,7 +1,5 @@
 A guide to install ROS Noetic Installation Guide on both **Virtual Machine** and **Raspberry Pi 4** (Ubuntu Focal Fossa 20.04)
 
-<div dir="rtl">دليل لتثبيت ROS Noetic على نظام وهمي بالاضافة الى راسبيري باي 4 (اوبنتو 20.04)</div>
-
 ## Introduction 
 
 Robot Operating System (ROS) is an open-source meta operating system, so it works on top of an operating system (Usually Unix-based). It provides libraries and tools to ease the process of developing robtics in the real world. One of the thing ROS provides is a system for message passing.
@@ -34,3 +32,8 @@ There are a two important notes:
 
 ### References
 - [ROS Official Website]()
+
+
+---
+
+<div dir="rtl">دليل لتثبيت ROS Noetic على نظام وهمي بالاضافة الى راسبيري باي 4 (اوبنتو 20.04)</div>
