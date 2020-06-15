@@ -14,7 +14,7 @@ Message Passing is a way for multiple process (known as nodes or services) to co
  - Subscribers
 
 
-![Message Passing](MP.png)
+![Message Passing](MP.svg)
 
 
 > ***Topic*** can be simplfied as a structure to hold a specific kind of data. So for example if we are intrested of information related to weather, the topic may hold data such as temperature, wind speed and humidity. 
