@@ -12,7 +12,7 @@
 
 ![](images/1.jpg)
 
-**1.2** A new window will popup, a few settings need to set.
+**1.2** A new window will popup, a few settings need to be set.
 - Name: Write the name of the Virtual Machine.
 - Type: Set it to **Linux**.
 - Version: Set it to **Ubuntu (64-bit)**.
