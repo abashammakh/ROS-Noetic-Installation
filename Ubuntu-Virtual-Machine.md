@@ -56,11 +56,11 @@ Then run the following commands.
 
 **2.4** Run the following command to check if ROS installed successfully.
 
-> rosversion -d
+> rosversion --distro
 
 The output should be
 
-> Noetic.
+> noetic
 
 ## References
 [ROS Noetic Official Tutorial](http://wiki.ros.org/noetic/Installation/Ubuntu)
