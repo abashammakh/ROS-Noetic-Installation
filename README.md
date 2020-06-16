@@ -23,7 +23,7 @@ Message Passing is a way for multiple process (known as nodes or services) to co
 
 [![](MP.svg)](#)
 
-> ***Topic*** can be simplfied as a structure to hold a specific kind of data. So for example if we are intrested of information related to weather, the topic may hold data such as temperature, wind speed and humidity. 
+> ***Topic*** can be simplfied as a structure to hold a specific kind of data. So for example if we are intrested in information related to weather, the topic may hold data such as temperature, wind speed and humidity. 
 
 > ***Publisher*** is one or multiple nodes (processes) that sends the data to a topic. In our example that can be seen as a Python or C++ node (process) collecting data from sensors connected to a device and send it to the topic.
 
