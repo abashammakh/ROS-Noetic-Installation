@@ -27,6 +27,7 @@
 ### 1.3 Login to pi using the following credentials
 > Username: ubuntu
 > Password: ubuntu
+
 After entring the credentials, The OS will ask you to change the password.
 
 ### 1.4 Run the following commands to install ROS (ROS-Base\Bare Bones)
