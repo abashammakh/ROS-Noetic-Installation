@@ -40,7 +40,7 @@
 
 ### <div dir="rtl">تثبيت ROS</div>
 [<div dir="rtl">أوبونتو على نظام أفتراضي</div>](Ubuntu-Virtual-Machine.md)
-[<div dir="rtl">الراسبيري باي 4</div>]()
+[<div dir="rtl">الراسبيري باي 4</div>](Raspberry-Pi-4.md)
 
 ### <div dir="rtl">مصادر</div>
 [<div dir="rtl">الموقع الرسمي لـ ROS</div>](https://www.ros.org/)
@@ -80,7 +80,7 @@ There are a two important notes:
 	- many-to-many
 ### ROS Installation
 - [Ubuntu Virtual Machine](Ubuntu-Virtual-Machine.md)
-- [Raspberry Pi 4]()
+- [Raspberry Pi 4](Raspberry-Pi-4.md)
 
 ### References
 - [ROS Official Website](https://www.ros.org/)
