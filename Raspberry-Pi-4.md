@@ -32,6 +32,37 @@
 <div dir="rtl">أسم المستخدم: ubuntu</div>
 <div dir="rtl">كلمة المرور: ubuntu</div>
 
+<div dir="rtl">1.4 قم بكتابة الاوامر التالية لتثبيت ROS</div>
+
+**<div dir="rtl">ملاحظة: هذه النسخة هيا النسخة البدائية ولا تحتوي على أي ادوات ذات واجهة رسومية.</div>**
+
+> sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+
+> sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+
+> sudo apt update
+
+> sudo apt install ros-noetic-ros-base
+
+> echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
+
+> source ~/.bashrc
+
+<div dir="rtl">1.5 للتأكد بأن التثبيت تم بنجاح قم بكتابة الامر التالي</div>
+
+> rosversion --distro
+
+<div dir="rtl">سيتم طباعة الكلمة التالية</div>
+
+> noetic
+
+![](images/9.jpg)
+
+## <div dir="rtl">المصادر</div>
+
+[<div dir="rtl">Raspberry Pi</div>](www.raspberrypi.org)
+[<div dir="rtl">ROS Official Website</div>](https://www.ros.org/)
+
 ---
 
 # ROS Installation on Raspberry Pi 4
@@ -76,13 +107,13 @@ After entring the credentials, The OS will ask you to change the password.
 
 > sudo apt update
 
-> sudo apt install ros-noetic-desktop-full
+> sudo apt install ros-noetic-ros-base
 
 > echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 
 > source ~/.bashrc
 
-### 2.4 Run the following command to check if ROS installed successfully.
+### 1.5 Run the following command to check if ROS installed successfully.
 
 > rosversion --distro
 
