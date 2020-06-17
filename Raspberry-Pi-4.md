@@ -1,3 +1,18 @@
+# <div dir="rtl">تثبيت ROS على الراسبيري باي 4</div>
+
+## <div dir="rtl">المتطلبات</div>
+<div dir="rtl"><ul>
+  <li>Micro-HDMI الى HDMI</li>
+  <li>USB type-c</li>
+  <li>Ethernet كابل</li>
+  <li>لوحة مفاتيح</li>
+  <li>Micro-SD Card (يفضل 8 جيجا)</li>
+</ul></div>
+- [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
+
+
+---
+
 # ROS Installation on Raspberry Pi 4
 
 ## Requirements
@@ -6,7 +21,7 @@
 - USB type-c power cable
 - Ethernet cable
 - Keyboard
-- Micro-SD Card (8 GB recommended)
+-  (8 GB recommended)
 - [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 
 ## Installation Steps
