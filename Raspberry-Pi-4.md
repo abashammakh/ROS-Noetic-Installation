@@ -8,6 +8,7 @@
   <li>لوحة مفاتيح</li>
   <li>Micro-SD Card (يفضل 8 جيجا)</li>
 </ul></div>
+
 - [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 
 
