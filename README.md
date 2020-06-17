@@ -49,7 +49,7 @@
 ---
 
 
-A guide to install ROS Noetic Installation Guide on both **Virtual Machine** and **Raspberry Pi 4** (Ubuntu Focal Fossa 20.04)
+A guide to install ROS Noetic on both **Virtual Machine** and **Raspberry Pi 4** (Ubuntu Focal Fossa 20.04)
 
 ## Introduction 
 
