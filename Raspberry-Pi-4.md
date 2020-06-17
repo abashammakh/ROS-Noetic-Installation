@@ -58,5 +58,5 @@ The output should be
 
 ## Resource
 
-![Raspberry Pi](www.raspberrypi.org)
-![ROS Official Website](https://www.ros.org/)
+[Raspberry Pi](www.raspberrypi.org)
+[ROS Official Website](https://www.ros.org/)
