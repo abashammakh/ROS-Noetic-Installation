@@ -57,6 +57,5 @@ The output should be
 ![](images/9.jpg)
 
 ## Resource
-
-[Raspberry Pi](www.raspberrypi.org)
-[ROS Official Website](https://www.ros.org/)
+- [Raspberry Pi](www.raspberrypi.org)
+- [ROS Official Website](https://www.ros.org/)
