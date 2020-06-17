@@ -8,7 +8,8 @@
 
 ### <div dir="rtl">نظام التراسل</div>
 
-نظام المراسلة يوفر طريقة للتواصل بين عدة عمليات (تسمى بالعقد او الخدمات). النظام يتكون من 3 أجزاء رئيسية.
+<div dir="rtl">نظام المراسلة يوفر طريقة للتواصل بين عدة عمليات (تسمى بالعقد او الخدمات). النظام يتكون من 3 أجزاء رئيسية.
+</div>
 
 <div dir="rtl"><ul>
   <li>الموضوع</li>
@@ -39,16 +40,13 @@
 
 ### <div dir="rtl">تثبيت ROS</div>
 
-<div dir="rtl"><ul>
-  <li>[Ubuntu Virtual Machine](Ubuntu-Virtual-Machine.md)</li>
-  <li>[Raspberry Pi 4]()</li>
-</ul></div>
+[أوبونتو على نظام أفتراضي](Ubuntu-Virtual-Machine.md)
+[الراسبيري باي 4]()
 
 ### <div dir="rtl">مصادر</div>
 
-<div dir="rtl"><ul>
-  <li>[ROS Official Website](https://www.ros.org/)</li>
-</ul></div>
+[<div dir="rtl">الموقع الرسمي لـ ROS</div>](https://www.ros.org/)
+
 
 ---
 
