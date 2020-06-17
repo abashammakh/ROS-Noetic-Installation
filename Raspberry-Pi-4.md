@@ -11,6 +11,26 @@
 
 - [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 
+## <div dir="rtl">خطوات التثبيت</div>
+
+### <div dir="rtl">1.1 وصل الذاكرة وثبت أوبونتو 20.04 نسخة الخادم 64-bit</div>
+<div dir="rtl"><ul>
+  <li>1. أختار نظام التشغيل</li>
+  <li>2. اختار الذاكرة</li>
+  <li>3. أضغط على WRITE</li>
+</ul></div>
+
+![](images/6.jpg)
+
+![](images/7.jpg)
+
+![](images/8.jpg)
+
+### <div dir="rtl">1.2 وصل الذاكرة للجهاز بالاضافة لكابل الشبكة ولوحة المفاتيح وسلك الطاقة.</div>
+
+### <div dir="rtl">1.3 قم بتسجيل الدخول باستخدام البيانات التالية</div>
+<div dir="rtl">أسم المستخدم: ubuntu</div>
+<div dir="rtl">كلمة المرور: ubuntu</div>
 
 ---
 
