@@ -61,8 +61,8 @@
 
 ## <div dir="rtl">المصادر</div>
 
-[<div dir="rtl">Raspberry Pi</div>](www.raspberrypi.org)
-[<div dir="rtl">ROS Official Website</div>](https://www.ros.org/)
+[<div dir="rtl">الموقع الراسبيري باي الرسمي</div>](www.raspberrypi.org)
+[<div dir="rtl">الموقع الرسمي لـ ROS</div>](https://www.ros.org/)
 
 ---
 
