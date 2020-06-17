@@ -39,13 +39,11 @@
 </ul></div>
 
 ### <div dir="rtl">تثبيت ROS</div>
-
-[أوبونتو على نظام أفتراضي](Ubuntu-Virtual-Machine.md)
-[الراسبيري باي 4]()
+- [<div dir="rtl">أوبونتو على نظام أفتراضي</div>](Ubuntu-Virtual-Machine.md)
+- [<div dir="rtl">الراسبيري باي 4</div>]()
 
 ### <div dir="rtl">مصادر</div>
-
-[<div dir="rtl">الموقع الرسمي لـ ROS</div>](https://www.ros.org/)
+- [<div dir="rtl">الموقع الرسمي لـ ROS</div>](https://www.ros.org/)
 
 
 ---
