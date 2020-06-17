@@ -26,6 +26,7 @@
 
 ### 1.3 Login to pi using the following credentials
 > Username: ubuntu
+> 
 > Password: ubuntu
 
 After entring the credentials, The OS will ask you to change the password.
